@@ -27,6 +27,7 @@
 }
 
 #navbar__logo{
+    font-family: cursive;
     background-color: darkgreen;
     background-image: linear-gradient(to top, darkgreen 0%, green 100%);
     background-size: 100%;
